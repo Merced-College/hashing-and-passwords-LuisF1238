@@ -1,3 +1,6 @@
+// Jose Flores
+// CPSC 25
+
 #include <iostream>
 #include <fstream>
 #include <unordered_map>
